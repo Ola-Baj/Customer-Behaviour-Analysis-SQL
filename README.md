@@ -1,6 +1,6 @@
 # Customer-Behaviour-Analysis-SQL
 
-This project's primary objective is to explore customer spending patterns, trends, and the factors that impact them. Through this analysis, we aim to uncover valuable insights into customer preferences, purchasing behaviors, and identify potential areas for enhancement in menu offerings and marketing strategies within a dining establishment.
+This project's primary objective is to explore customer spending patterns, trends, and the factors that impact them. Through this analysis, i uncovered valuable insights into customer preferences, purchasing behaviors, and identify potential areas for enhancement in menu offerings and marketing strategies within a dining establishment.
 
 
 ### Background
